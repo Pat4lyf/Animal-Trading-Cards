@@ -1,0 +1,49 @@
+/* add your CSS here */
+.fun-fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.animal-card {
+    border: 1px solid rgb(248, 245, 245);
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    box-shadow: 10px 10px rgb(248, 245, 245);
+    box-sizing: content-box;
+    margin: 5px;
+    background-color: rgb(117, 117, 117);
+}
+
+.animal-name {
+    margin: 5px;
+    padding: 2px;
+}
+
+.animal-information {
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(248, 245, 245);
+    padding: 10px;
+    text-align: justify;
+}
+
+img {
+    width: 300px !important;
+    border-radius: 2em;
+}
